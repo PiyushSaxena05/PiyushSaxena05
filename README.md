@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Piyush Saxena</h1>
-<h3 align="center">💻 Java Developer | SQL Enthusiast | AI Backend Learner</h3>
+<h3 align="center">💻 Java Developer | AI Backend Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -7,9 +7,9 @@
 
 ### 🚀 About Me  
 - 🔭 Currently working on **Java-based backend projects**  
-- 🛢 Skilled in **SQL** & database design  
-- 🤖 Exploring **AI development** for backend systems  
-- 🌱 Learning **Spring Boot, REST APIs, and AI integrations**  
+- 🛢 Skilled in SQL & database design  
+- 🤖 Exploring AI development for backend systems  
+- 🌱 Learning Spring Boot, REST APIs, and AI integrations 
 
 ---
 
@@ -33,16 +33,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaxena05&theme=radical" alt="GitHub streak" height="180" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Coding fun" />
-</p>
-
----
-
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it’s bad." 💡</i>
-</p>
-
----

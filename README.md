@@ -38,7 +38,11 @@
 
 ### 📬 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-saxena-160036347" target="_blank">🔗 Connect on LinkedIn</a>  
-  <br><br>
-  <a href="mailto:piyushsaxena168@gmail.com?subject=Hello%20Piyush&body=Hi%20Piyush,%0D%0A%0D%0A">📧 Send me an Email</a>
+  <a href="https://www.linkedin.com/in/piyush-saxena-160036347" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn Logo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:piyushsaxena168@gmail.com?subject=Hello%20Piyush&body=Hi%20Piyush,%0D%0A%0D%0A">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50" alt="Gmail Logo" />
+  </a>
 </p>

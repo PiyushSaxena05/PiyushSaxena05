@@ -6,10 +6,10 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working on Java-based backend projects
+- 🔭 Currently working on Java-based backend projects  
 - 🛢 Skilled in SQL & database design  
 - 🤖 Exploring AI development for backend systems  
-- 🌱 Learning Spring Boot, REST APIs, and AI integrations 
+- 🌱 Learning Spring Boot, REST APIs, and AI integrations  
 
 ---
 

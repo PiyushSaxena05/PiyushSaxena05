@@ -6,10 +6,10 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working on **Java-based backend projects**  
+- 🔭 Currently working on Java-based backend projects
 - 🛢 Skilled in SQL & database design  
 - 🤖 Exploring AI development for backend systems  
-- 🌱 Learning Spring Boot, REST APIs, and AI integrations  
+- 🌱 Learning Spring Boot, REST APIs, and AI integrations 
 
 ---
 
@@ -32,17 +32,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PiyushSaxena05&show_icons=true&theme=radical&v=1" alt="Piyush's GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaxena05&theme=radical&v=1" alt="GitHub streak" height="180" />
-</p>
-
----
-
-### 📬 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-saxena-160036347" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn Logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:piyushsaxena168@gmail.com?subject=Hello%20Piyush&body=Hi%20Piyush,%0D%0A%0D%0A">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50" alt="Gmail Logo" />
-  </a>
 </p>

@@ -14,6 +14,7 @@
 ### 🚀 About Me  
 - 🔭 Currently working on Java-based backend projects  
 - 🛢 Skilled in SQL & database design  
+- 📦 Working with **MongoDB** for NoSQL applications  
 - 🤖 Exploring AI development for backend systems  
 - 🌱 Learning Spring Boot, REST APIs, and AI integrations  
 
@@ -28,6 +29,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
@@ -40,6 +44,9 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -49,5 +56,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PiyushSaxena05&show_icons=true&theme=radical&v=1" alt="Piyush's GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaxena05&theme=radical&v=1" alt="GitHub streak" height="180" />
 </p>
-
 

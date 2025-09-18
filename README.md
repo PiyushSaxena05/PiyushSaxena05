@@ -75,7 +75,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushSaxena05&show_icons=true&theme=radical&v=1" alt="Piyush's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaxena05&theme=radical&v=1" alt="GitHub streak" height="180" />
+  <!-- Replace PAT_1 with your GitHub secret name -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushSaxena05&show_icons=true&theme=radical&count_private=true&token=PAT_1" alt="Piyush's GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaxena05&theme=radical" alt="GitHub streak" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaxena05&layout=compact&theme=radical&token=PAT_1" alt="Top Languages" height="180" />
+</p>

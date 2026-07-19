@@ -96,11 +96,29 @@ CRUD-based task management system using **Spring MVC, Spring Data JPA, Lombok**,
 
 <br>
 
-## 📊 GitHub Stats
+## 📚 Core CS Fundamentals
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushSaxena05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaxena05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP%20Concepts-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design%20Basics-38BDF8?style=for-the-badge"/>
+</p>
+
+<br>
+
+## 📜 Certifications
+
+- 🎓 **AICTE | IBM SkillsBuild** — Generative AI & Cloud Computing (in collaboration with BharatCares)
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PiyushSaxena05&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 <br>

@@ -34,7 +34,18 @@ I'm a B.Tech Computer Science student and backend developer who builds productio
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,docker,git,github,postman,vscode,idea,eclipse&perline=6"/>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="50"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="50"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="50"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="50"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="50"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="50"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="50"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="50"/></a>
+  <a href="https://www.eclipse.org/ide/"><img src="https://skillicons.dev/icons?i=eclipse" height="50"/></a>
 </p>
 
 <br>
@@ -88,8 +99,8 @@ CRUD-based task management system using **Spring MVC, Spring Data JPA, Lombok**,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushSaxena05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaxena05&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushSaxena05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaxena05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <br>

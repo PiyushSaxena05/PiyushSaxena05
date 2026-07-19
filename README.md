@@ -115,20 +115,8 @@ CRUD-based task management system using **Spring MVC, Spring Data JPA, Lombok**,
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiyushSaxena05&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
-<br>
-
 ## 🤝 Let's Connect
 
 📧 **piyushsaxena168@gmail.com**
 💼 **[LinkedIn](https://linkedin.com/in/piyush-saxena-160036347)**
 🐙 **[GitHub](https://github.com/PiyushSaxena05)**
-
-<p align="center">
-  <i>"First, solve the problem. Then, write clean and maintainable code."</i>
-</p>

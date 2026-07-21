@@ -25,7 +25,7 @@ I'm a B.Tech Computer Science student and backend developer who builds productio
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Java Backend Developer — REST APIs, Spring Boot, SQL/NoSQL databases
-- 🤖 Built a full-stack AI app (Whisper + Spring Boot + React)
+- 🤖 Exploring AI integration in backend systems — LLM APIs, automation, and intelligent workflows
 - ☁️ AICTE | IBM SkillsBuild — Gen AI & Cloud Computing Intern (BharatCares)
 - 🌱 Currently learning: Spring Boot (advanced), System Design, Docker, Cloud Deployment
 

@@ -56,6 +56,10 @@ I'm a B.Tech Computer Science student and backend developer who builds productio
 Full-stack speech transcription application integrating OpenAI Whisper with a **Spring Boot backend** and **React frontend**. The backend orchestrates AI inference by invoking the Whisper model and serving transcription results through REST APIs.
 `Java` `Spring Boot` `React` `OpenAI Whisper` `REST API`
 
+### 🔍 [Nexquira](https://github.com/PiyushSaxena05/Nexquira)
+AI-powered Chrome Extension that streamlines online research workflows. Instantly summarizes selected content from any webpage, generates concise insights using **Google's Gemini API**, and persists research notes directly inside the browser — minimizing context switching and information overload for students, researchers, developers, and knowledge workers.
+`Chrome Extension` `JavaScript` `Gemini API` `AI`
+
 ### ☀️ [SolarIQ](https://github.com/PiyushSaxena05/SOLARIQ)
 Java-based application that simulates solar panel performance using realistic irradiance models, estimating energy efficiency, cost savings, and carbon footprint reduction. ⭐ 1
 `Java` `Simulation` `Data Modeling`

@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot | Building Scalable Backend Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%2B+Spring+Boot+Backend+Developer;AI+Backend+Learner;REST+APIs+%7C+SQL+%7C+MongoDB+%7C+PostgreSQL;Full-Stack+AI+Integration+(TScript+AI)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%2B+Spring+Boot+Backend+Developer;AI+Backend+Learner;REST+APIs+%7C+SQL+%7C+MongoDB+%7C+PostgreSQL"/>
 </p>
 
 <p align="center">

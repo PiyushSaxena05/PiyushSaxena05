@@ -60,6 +60,10 @@ Full-stack speech transcription application integrating OpenAI Whisper with a **
 AI-powered Chrome Extension that streamlines online research workflows. Instantly summarizes selected content from any webpage, generates concise insights using **Google's Gemini API**, and persists research notes directly inside the browser — minimizing context switching and information overload for students, researchers, developers, and knowledge workers.
 `Chrome Extension` `JavaScript` `Gemini API` `AI`
 
+### 💳 [Orvixa](https://github.com/PiyushSaxena05/Orvixa)
+AI-powered payment platform that combines **real-time payment processing (Razorpay)** with **local LLM-based fraud detection (Ollama)**. The backend analyzes transactions, generates human-readable fraud risk explanations, and pushes live transaction status updates using **WebSocket/STOMP** for a responsive dashboard experience.
+`Java` `Spring Boot` `React` `Spring Data JPA` `Razorpay` `Ollama` `WebSocket/STOMP` `REST API`
+
 ### ☀️ [SolarIQ](https://github.com/PiyushSaxena05/SOLARIQ)
 Java-based application that simulates solar panel performance using realistic irradiance models, estimating energy efficiency, cost savings, and carbon footprint reduction. ⭐ 1
 `Java` `Simulation` `Data Modeling`

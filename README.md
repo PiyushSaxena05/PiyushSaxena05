@@ -1,130 +1,139 @@
-<h1 align="center">Hi 👋, I'm Piyush Saxena</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Building Scalable Backend Systems</h3>
+<h1 align="center">
+  Hi there 👋, I'm Piyush Saxena
+</h1>
+
+<h3 align="center" style="color:#38BDF8;">
+  Java Backend Developer | AI Enthusiast | Python Deep Learning Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%2B+Spring+Boot+Backend+Developer;AI+Backend+Learner;REST+APIs+%7C+SQL+%7C+MongoDB+%7C+PostgreSQL"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=660&lines=Building+Scalable+Backends+with+Spring+Boot;Exploring+AI,+ML,+Neural+Networks+in+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:piyushsaxena168@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/piyush-saxena-160036347">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/piyush-saxena-160036347">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/PiyushSaxena05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-<br>
+---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-I'm a B.Tech Computer Science student and backend developer who builds production-style Java applications — from a full-stack AI transcription platform to console apps with real database layers (JDBC, MySQL, PostgreSQL, MongoDB). Currently deepening my skills in Spring Boot, system design, and applying AI to backend workflows.
-
-- 🎓 B.Tech Computer Science Student
-- 💻 Java Backend Developer — REST APIs, Spring Boot, SQL/NoSQL databases
-- 🤖 Exploring AI integration in backend systems — LLM APIs, automation, and intelligent workflows
-- ☁️ AICTE | IBM SkillsBuild — Gen AI & Cloud Computing Intern (BharatCares)
-- 🌱 Currently learning: Spring Boot (advanced), System Design, Docker, Cloud Deployment
-
-<br>
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="50"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="50"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="50"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="50"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="50"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="50"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="50"/></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="50"/></a>
-  <a href="https://www.eclipse.org/ide/"><img src="https://skillicons.dev/icons?i=eclipse" height="50"/></a>
+<p align="justify" style="max-width:700px;margin:auto;">
+I am a passionate backend developer and B.Tech Computer Science student, specializing in Java and Spring Boot for scalable, production-ready applications. I’m actively expanding my expertise into AI and Python-powered deep learning, machine learning, and neural networks — integrating intelligence into backend systems and workflows.
 </p>
 
-<br>
+---
+
+## 🛠 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,mongodb,mysql,postgres,docker,git,github,vscode,postman" height="48" alt="Tech Stack Icons" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <ul>
+        <li><strong>Languages:</strong> Java, Python</li>
+        <li><strong>Backend:</strong> Spring Boot, REST APIs</li>
+        <li><strong>Databases:</strong> MySQL, MongoDB, PostgreSQL</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <ul>
+        <li><strong>AI & ML:</strong> Deep Learning, Neural Networks</li>
+        <li><strong>Tools:</strong> Docker, Git, Postman, VSCode</li>
+        <li><strong>Cloud & CI/CD:</strong> Cloud Deployment, System Design, Docker</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🎙️ [TScript AI](https://github.com/PiyushSaxena05/TSCRIPT-AI-)
-Full-stack speech transcription application integrating OpenAI Whisper with a **Spring Boot backend** and **React frontend**. The backend orchestrates AI inference by invoking the Whisper model and serving transcription results through REST APIs.
-`Java` `Spring Boot` `React` `OpenAI Whisper` `REST API`
+<div style="display:flex; flex-wrap: wrap; justify-content:center; gap:15px; max-width: 900px; margin:auto;">
 
-### 🔍 [Nexquira](https://github.com/PiyushSaxena05/Nexquira)
-AI-powered Chrome Extension that streamlines online research workflows. Instantly summarizes selected content from any webpage, generates concise insights using **Google's Gemini API**, and persists research notes directly inside the browser — minimizing context switching and information overload for students, researchers, developers, and knowledge workers.
-`Chrome Extension` `JavaScript` `Gemini API` `AI`
+<div style="border: 1px solid #38BDF8; border-radius: 10px; box-shadow: 2px 4px 10px #a0d8ff; padding: 15px; width: 280px; transition: transform 0.2s;">
+  <h4><a href="https://github.com/PiyushSaxena05/TSCRIPT-AI-" target="_blank">🎙️ TScript AI</a></h4>
+  <p>Full-stack speech transcription integrating OpenAI Whisper with Spring Boot backend & React frontend. Real-time AI-powered transcription via REST API.</p>
+  <b>Tech:</b> Java, Spring Boot, React, OpenAI Whisper
+</div>
 
-### 💳 [Orvixa](https://github.com/PiyushSaxena05/Orvixa)
-AI-powered payment platform that combines **real-time payment processing (Razorpay)** with **local LLM-based fraud detection (Ollama)**. The backend analyzes transactions, generates human-readable fraud risk explanations, and pushes live transaction status updates using **WebSocket/STOMP** for a responsive dashboard experience.
-`Java` `Spring Boot` `React` `Spring Data JPA` `Razorpay` `Ollama` `WebSocket/STOMP` `REST API`
+<div style="border: 1px solid #38BDF8; border-radius: 10px; box-shadow: 2px 4px 10px #a0d8ff; padding: 15px; width: 280px; transition: transform 0.2s;">
+  <h4><a href="https://github.com/PiyushSaxena05/Nexquira" target="_blank">🔍 Nexquira</a></h4>
+  <p>AI Chrome Extension summarizing webpages using Gemini API, streamlining research notes & minimizing overload.</p>
+  <b>Tech:</b> JavaScript, Gemini API, AI
+</div>
 
-### ☀️ [SolarIQ](https://github.com/PiyushSaxena05/SOLARIQ)
-Java-based application that simulates solar panel performance using realistic irradiance models, estimating energy efficiency, cost savings, and carbon footprint reduction. ⭐ 1
-`Java` `Simulation` `Data Modeling`
+<div style="border: 1px solid #38BDF8; border-radius: 10px; box-shadow: 2px 4px 10px #a0d8ff; padding: 15px; width: 280px; transition: transform 0.2s;">
+  <h4><a href="https://github.com/PiyushSaxena05/Orvixa" target="_blank">💳 Orvixa</a></h4>
+  <p>AI payment platform combining real-time payment and LLM fraud detection with WebSocket live updates.</p>
+  <b>Tech:</b> Java, Spring Boot, React, Razorpay, Ollama
+</div>
 
-### 🏥 [Healthdoc](https://github.com/PiyushSaxena05/Healthdoc)
-Java & MySQL application that securely manages doctor–patient records. Doctors can add patient info and assign secure access, while patients can view their own records.
-`Java` `MySQL` `JDBC`
+</div>
 
-### 🚖 [Taxi Booking System](https://github.com/PiyushSaxena05/TaxiBookingSystem)
-A ride-booking system supporting Cabs, Premium Cabs, Autos, and Bikes — handling ride entries, payment validation, driver allocation, and arrival estimates using JDBC.
-`Java` `JDBC` `MySQL`
+---
 
-### ♻️ [Recyclatics](https://github.com/PiyushSaxena05/Recyclatics)
-Java console app using JDBC and MySQL that logs plastic waste contributions, calculating rewards and CO₂ saved. ⭐ 2
-`Java` `JDBC` `MySQL`
+## 🧑‍💼 Experience
 
-### 📋 [Task Management System (Spring MVC)](https://github.com/PiyushSaxena05/Task-Management-System-Spring-MVC-Project-)
-CRUD-based task management system using **Spring MVC, Spring Data JPA, Lombok**, and DevTools, with DTOs cleanly separating entities from API responses.
-`Java` `Spring MVC` `Spring Data JPA`
+### Bharat Space Education Research Centre (भारत अंतरिक्ष शिक्षा अनुसंधान केंद्र)
+**Def-Space Artificial Intelligence Intern**  
+*Oct 2026 - Present · Remote*  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Indian_Space_Research_Organisation_Logo.svg/256px-Indian_Space_Research_Organisation_Logo.svg.png" width="80" alt="Bharat Space Logo"/>
 
-<details>
-<summary><b>More Projects</b></summary>
-<br>
+---
 
-- ⛽ **[Fuel Station](https://github.com/PiyushSaxena05/Fuel-Station)** — Simulates a real-world fuel station with dynamic payment flows and travel range estimation.
-- 🍽️ **[AntiFoodWastageSystem](https://github.com/PiyushSaxena05/AntiFoodWastageSystem)** — Java Servlet + HTML project to reduce food wastage in hostels/offices by notifying about surplus meals.
-- 🔥 **[HabitStreakTracker](https://github.com/PiyushSaxena05/HabitStreakTracker)** — Console app tracking daily habit streaks with JDBC + MySQL.
-- 🏨 **[Hotel Reservation System](https://github.com/PiyushSaxena05/Hotel-Reservation-System)** — Hotel reservation management system built with Java and JDBC.
+### UptoSkills  
+**AI Research Intern**  
+*Sep 2026 - Present · Remote*  
+<img src="https://avatars.githubusercontent.com/u/14256074?s=200&v=4" width="80" alt="UptoSkills Logo"/>
 
-</details>
+---
 
-<br>
+### InAmigos Foundation (IAF)  
+**Artificial Intelligence Intern**  
+*Aug 2026 · 1 mo · Remote*  
+<img src="https://pbs.twimg.com/profile_images/844148499261893632/gXcXSwVK_400x400.jpg" width="80" alt="InAmigos Foundation Logo"/>  
 
-## 🎓 Experience & Achievements
+- Contributed to AI initiatives focused on leveraging tech for social impact.  
+- Worked with Generative AI, Large Language Models (LLMs), and prompt engineering.  
+- Applied AI and emerging tech to address real-world societal needs.  
+- Gained hands-on experience in AI workflows and responsible AI use.  
+- Explored AI-powered community solutions and innovation.
 
-- **AICTE | IBM SkillsBuild — Gen AI & Cloud Computing Internship**, in collaboration with **BharatCares**
-  Worked on Generative AI and Cloud Computing fundamentals, applying them to real-world problem statements.
+---
 
-<br>
+### BharatCares®  
+**Gen AI & Cloud Computing Intern**  
+*Jun 2026 - Jul 2026 · Remote*  
+<img src="https://seeklogo.com/images/B/bharatcares-logo-9D8C8941E0-seeklogo.com.png" width="80" alt="BharatCares Logo"/>
 
-## 📚 Core CS Fundamentals
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-38BDF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP%20Concepts-38BDF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-38BDF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-38BDF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-38BDF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design%20Basics-38BDF8?style=for-the-badge"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PiyushSaxena05&show_icons=true&theme=radical&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaxena05&layout=compact&theme=radical" />
 </p>
 
-<br>
-
-## 📜 Certifications
-
-- 🎓 **AICTE | IBM SkillsBuild** — Generative AI & Cloud Computing (in collaboration with BharatCares)
-
-<br>
+---
 
 ## 🤝 Let's Connect
 
-📧 **piyushsaxena168@gmail.com**
-💼 **[LinkedIn](https://linkedin.com/in/piyush-saxena-160036347)**
-🐙 **[GitHub](https://github.com/PiyushSaxena05)**
+<p align="center">
+  <a href="mailto:piyushsaxena168@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/piyush-saxena-160036347"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/PiyushSaxena05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>

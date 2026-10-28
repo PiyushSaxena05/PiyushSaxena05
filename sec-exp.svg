@@ -4,7 +4,7 @@
 <rect x="22" y="27" width="10" height="10" rx="2" fill="#38BDF8"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></rect>
 <text x="44" y="38" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="2" fill="#38BDF8">// 06</text>
 <text x="112" y="41" font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="2" fill="#FFFFFF">EXPERIENCE</text>
-<text x="976" y="38" text-anchor="end" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8B93A7">internship &amp; certification</text>
+<text x="976" y="38" text-anchor="end" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8B93A7">4 internships · 2026</text>
 <rect x="14" y="58" width="972" height="2" rx="1" fill="url(#l)"/>
 <rect x="14" y="58" width="60" height="2" rx="1" fill="#fff" opacity=".8"><animate attributeName="x" values="14;926;14" dur="5s" repeatCount="indefinite"/></rect>
 </svg>

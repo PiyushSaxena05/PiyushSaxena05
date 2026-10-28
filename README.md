@@ -42,6 +42,9 @@
 <sub><b>TOOLS &amp; DEVOPS</b></sub><br>
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea,eclipse&theme=dark" height="56" alt="Tools"/>
 
+<sub><b>AI / ML ENGINEERING</b></sub><br>
+<img src="ai-stack.svg" width="100%" alt="AI and ML skills: machine learning, deep learning, neural networks, LLMs, agentic AI, generative AI"/>
+
 <sub><b>CORE CS FUNDAMENTALS</b></sub><br>
 <img src="https://img.shields.io/badge/DSA-38BDF8?style=for-the-badge&labelColor=0B1020" alt="DSA"/>
 <img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="OOP"/>
@@ -115,7 +118,7 @@
 
 <img src="https://streak-stats.demolab.com?user=PiyushSaxena05&background=0B1020&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B93A7&hide_border=true&border_radius=14" width="70%" alt="Contribution streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushSaxena05&bg_color=0B1020&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&radius=14" width="100%" alt="Contribution activity graph"/>
+<img src="https://ghchart.rshah.org/38BDF8/PiyushSaxena05" width="100%" alt="Contribution graph"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiyushSaxena05/PiyushSaxena05/output/github-snake-dark.svg"/>

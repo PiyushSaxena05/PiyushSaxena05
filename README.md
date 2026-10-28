@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Piyush Saxena — Java Backend Developer" width="100%"/>
+<img src="header.svg" alt="Piyush Saxena — Java Backend Developer" width="100%"/>
 
 <a href="https://github.com/PiyushSaxena05">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=44&lines=Java+%2B+Spring+Boot+Backend+Developer;Building+scalable+REST+APIs+%26+real-time+systems;Wiring+LLMs+into+real+backends;SQL+%7C+PostgreSQL+%7C+MongoDB" alt="Typing intro"/>
@@ -17,10 +17,10 @@
 
 <br>
 
-<img src="assets/sec-about.svg" alt="About" width="100%"/>
+<img src="sec-about.svg" alt="About" width="100%"/>
 
 <div align="center">
-  <img src="assets/terminal.svg" alt="Terminal intro" width="100%"/>
+  <img src="terminal.svg" alt="Terminal intro" width="100%"/>
 </div>
 
 <br>
@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="assets/sec-stack.svg" alt="Tech stack" width="100%"/>
+<img src="sec-stack.svg" alt="Tech stack" width="100%"/>
 
 <div align="center">
 
@@ -54,26 +54,26 @@
 
 <br>
 
-<img src="assets/sec-arch.svg" alt="How I build" width="100%"/>
+<img src="sec-arch.svg" alt="How I build" width="100%"/>
 
 <div align="center">
-  <img src="assets/architecture.svg" alt="Request lifecycle: client, controller, service, repository, database, with an LLM layer and WebSocket push" width="100%"/>
+  <img src="architecture.svg" alt="Request lifecycle: client, controller, service, repository, database, with an LLM layer and WebSocket push" width="100%"/>
 </div>
 
 <br>
 
-<img src="assets/sec-projects.svg" alt="Featured projects" width="100%"/>
+<img src="sec-projects.svg" alt="Featured projects" width="100%"/>
 
 <div align="center">
 
-<a href="https://github.com/PiyushSaxena05/TSCRIPT-AI-"><img src="assets/card-tscript.svg" width="49%" alt="TScript AI"/></a>
-<a href="https://github.com/PiyushSaxena05/Nexquira"><img src="assets/card-nexquira.svg" width="49%" alt="Nexquira"/></a>
-<a href="https://github.com/PiyushSaxena05/Orvixa"><img src="assets/card-orvixa.svg" width="49%" alt="Orvixa"/></a>
-<a href="https://github.com/PiyushSaxena05/SOLARIQ"><img src="assets/card-solariq.svg" width="49%" alt="SolarIQ"/></a>
-<a href="https://github.com/PiyushSaxena05/Healthdoc"><img src="assets/card-healthdoc.svg" width="49%" alt="Healthdoc"/></a>
-<a href="https://github.com/PiyushSaxena05/TaxiBookingSystem"><img src="assets/card-taxi.svg" width="49%" alt="Taxi Booking System"/></a>
-<a href="https://github.com/PiyushSaxena05/Recyclatics"><img src="assets/card-recyclatics.svg" width="49%" alt="Recyclatics"/></a>
-<a href="https://github.com/PiyushSaxena05/Task-Management-System-Spring-MVC-Project-"><img src="assets/card-taskmgmt.svg" width="49%" alt="Task Management System"/></a>
+<a href="https://github.com/PiyushSaxena05/TSCRIPT-AI-"><img src="card-tscript.svg" width="49%" alt="TScript AI"/></a>
+<a href="https://github.com/PiyushSaxena05/Nexquira"><img src="card-nexquira.svg" width="49%" alt="Nexquira"/></a>
+<a href="https://github.com/PiyushSaxena05/Orvixa"><img src="card-orvixa.svg" width="49%" alt="Orvixa"/></a>
+<a href="https://github.com/PiyushSaxena05/SOLARIQ"><img src="card-solariq.svg" width="49%" alt="SolarIQ"/></a>
+<a href="https://github.com/PiyushSaxena05/Healthdoc"><img src="card-healthdoc.svg" width="49%" alt="Healthdoc"/></a>
+<a href="https://github.com/PiyushSaxena05/TaxiBookingSystem"><img src="card-taxi.svg" width="49%" alt="Taxi Booking System"/></a>
+<a href="https://github.com/PiyushSaxena05/Recyclatics"><img src="card-recyclatics.svg" width="49%" alt="Recyclatics"/></a>
+<a href="https://github.com/PiyushSaxena05/Task-Management-System-Spring-MVC-Project-"><img src="card-taskmgmt.svg" width="49%" alt="Task Management System"/></a>
 
 </div>
 
@@ -90,23 +90,23 @@
 
 <br>
 
-<img src="assets/sec-learning.svg" alt="Now loading" width="100%"/>
+<img src="sec-learning.svg" alt="Now loading" width="100%"/>
 
 <div align="center">
-  <img src="assets/learning.svg" alt="Currently learning: Spring Boot advanced, System Design, Docker, Cloud Deployment, AI in backends" width="100%"/>
+  <img src="learning.svg" alt="Currently learning: Spring Boot advanced, System Design, Docker, Cloud Deployment, AI in backends" width="100%"/>
 </div>
 
 <br>
 
-<img src="assets/sec-exp.svg" alt="Experience" width="100%"/>
+<img src="sec-exp.svg" alt="Experience" width="100%"/>
 
 <div align="center">
-  <img src="assets/experience.svg" alt="AICTE and IBM SkillsBuild — Generative AI and Cloud Computing internship, in collaboration with BharatCares" width="100%"/>
+  <img src="experience.svg" alt="AICTE and IBM SkillsBuild — Generative AI and Cloud Computing internship, in collaboration with BharatCares" width="100%"/>
 </div>
 
 <br>
 
-<img src="assets/sec-stats.svg" alt="GitHub analytics" width="100%"/>
+<img src="sec-stats.svg" alt="GitHub analytics" width="100%"/>
 
 <div align="center">
 
@@ -127,7 +127,7 @@
 
 <br>
 
-<img src="assets/sec-connect.svg" alt="Connect" width="100%"/>
+<img src="sec-connect.svg" alt="Connect" width="100%"/>
 
 <div align="center">
 

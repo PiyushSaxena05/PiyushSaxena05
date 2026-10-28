@@ -104,7 +104,7 @@
 <img src="sec-exp.svg" alt="Experience" width="100%"/>
 
 <div align="center">
-  <img src="experience.svg" alt="AICTE and IBM SkillsBuild — Generative AI and Cloud Computing internship, in collaboration with BharatCares" width="100%"/>
+  <img src="experience.svg" alt="Internship timeline: Def-Space AI Intern, UptoSkills AI Research Intern, InAmigos Foundation AI Intern, BharatCares Gen AI and Cloud Computing Intern" width="100%"/>
 </div>
 
 <br>
